@@ -1,5 +1,5 @@
 - 🤙 Aloha, I’m @dtorq
-- 👨🏽‍💻 I'm curious about Front End Development and improving user UI/UX
+- 👨🏽‍💻 Genuinely curious about the how and why 
 - 📓 I’m currently learning html/css/JS
 - 💞️ I look forward to contributing to others 
 - 📫 How to reach me on Linkedin/Github/Discord
