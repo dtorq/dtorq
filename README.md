@@ -1,5 +1,5 @@
 - 🤙 Aloha, I’m @dtorq
-- 👨🏽‍💻 Genuinely curious about the how and why 
+- 👨🏽‍💻 Here to build things  
 - 📓 Contstantly improving 
 - 📫 How to reach me on Linkedin/Github
 
