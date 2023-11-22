@@ -1,6 +1,6 @@
 - 🤙 Aloha, I’m @dtorq
-- 👨🏽‍💻 Here to build things  
-- 📓 Contstantly improving 
+- 👨🏽‍💻 Here to improve  
+- 📓 Continuously learning 
 - 📫 How to reach me on Linkedin/Github
 
 <!---
